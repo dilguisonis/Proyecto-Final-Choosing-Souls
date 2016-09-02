@@ -1,0 +1,6 @@
+Guardia;¿Qué pasa?;0;R
+Player;Necesito ir a la torre:line,2;Nada:line,4	
+Guardia;Está abajo, cruzando el bosque.;0;R
+Player;Exit:exit,0
+Guardia;No me molestes.;0;R
+Player;Exit:exit,0

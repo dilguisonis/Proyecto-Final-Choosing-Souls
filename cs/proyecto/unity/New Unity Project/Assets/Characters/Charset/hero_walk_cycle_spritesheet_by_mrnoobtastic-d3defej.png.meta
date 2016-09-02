@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: e3dc2372e892c494c9c481885352bb4a
+timeCreated: 1464351989
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_0
+    21300002: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_1
+    21300004: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_2
+    21300006: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_3
+    21300008: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_4
+    21300010: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_5
+    21300012: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_6
+    21300014: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_7
+    21300016: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_8
+    21300018: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_9
+    21300020: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_10
+    21300022: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_11
+    21300024: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_12
+    21300026: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_13
+    21300028: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_14
+    21300030: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -5}
+        - {x: -17, y: -59}
+        - {x: -10, y: -63}
+        - {x: 9, y: -63}
+        - {x: 29, y: -58}
+        - {x: 29, y: 62}
+        - {x: -20, y: 62}
+        - {x: -21, y: 61}
+    - name: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 383
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 61}
+        - {x: -28, y: 44}
+        - {x: -28, y: -63}
+        - {x: 26, y: -63}
+        - {x: 30, y: -62}
+        - {x: 30, y: 44}
+        - {x: 24, y: 61}
+    - name: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -5}
+        - {x: -17, y: -59}
+        - {x: -10, y: -63}
+        - {x: 9, y: -63}
+        - {x: 29, y: -58}
+        - {x: 29, y: 62}
+        - {x: -20, y: 62}
+        - {x: -21, y: 61}
+    - name: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 58}
+        - {x: -21, y: 58}
+        - {x: -29, y: 57}
+        - {x: -29, y: -62}
+        - {x: 19, y: -62}
+        - {x: 24, y: -59}
+        - {x: 29, y: -28}
+        - {x: 29, y: 45}
+    - name: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 62}
+        - {x: -26, y: 62}
+        - {x: -28, y: 61}
+        - {x: -28, y: -57}
+        - {x: -12, y: -63}
+        - {x: 13, y: -63}
+        - {x: 20, y: -54}
+        - {x: 22, y: -39}
+        - {x: 22, y: 53}
+    - name: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -61}
+        - {x: 8, y: -62}
+        - {x: 25, y: -62}
+        - {x: 30, y: -60}
+        - {x: 30, y: -36}
+        - {x: 22, y: 55}
+        - {x: 9, y: 59}
+        - {x: 5, y: 60}
+        - {x: -13, y: 60}
+        - {x: -28, y: 51}
+        - {x: -28, y: 27}
+        - {x: -19, y: 19}
+        - {x: -21, y: 4}
+        - {x: -28, y: -53}
+        - {x: -28, y: -59}
+        - {x: -22, y: -64}
+        - {x: -1, y: -64}
+        - {x: 2, y: -59}
+        - {x: 2, y: -56}
+        - {x: 2, y: -58}
+    - name: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 62}
+        - {x: -26, y: 62}
+        - {x: -28, y: 61}
+        - {x: -28, y: -57}
+        - {x: -12, y: -63}
+        - {x: 13, y: -63}
+        - {x: 20, y: -54}
+        - {x: 22, y: -39}
+        - {x: 22, y: 53}
+    - name: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 58}
+        - {x: -28, y: -52}
+        - {x: -21, y: -62}
+        - {x: 30, y: -62}
+        - {x: 30, y: 53}
+        - {x: 22, y: 58}
+    - name: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 55}
+        - {x: -7, y: 55}
+        - {x: -24, y: 37}
+        - {x: -24, y: -63}
+        - {x: 19, y: -63}
+        - {x: 31, y: -37}
+        - {x: 31, y: 9}
+        - {x: 17, y: 52}
+    - name: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 58}
+        - {x: -9, y: 54}
+        - {x: -17, y: 46}
+        - {x: -29, y: 18}
+        - {x: -29, y: -53}
+        - {x: -26, y: -63}
+        - {x: 26, y: -63}
+        - {x: 29, y: -59}
+        - {x: 29, y: 34}
+        - {x: 20, y: 58}
+    - name: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -50}
+        - {x: -23, y: -63}
+        - {x: 24, y: -63}
+        - {x: 24, y: 41}
+        - {x: 23, y: 55}
+        - {x: -14, y: 55}
+        - {x: -31, y: 31}
+    - name: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 58}
+        - {x: -9, y: 54}
+        - {x: -17, y: 46}
+        - {x: -29, y: 18}
+        - {x: -29, y: -53}
+        - {x: -26, y: -63}
+        - {x: 26, y: -63}
+        - {x: 29, y: -59}
+        - {x: 29, y: 34}
+        - {x: 20, y: 58}
+    - name: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 54}
+        - {x: -24, y: 39}
+        - {x: -24, y: -60}
+        - {x: -22, y: -61}
+        - {x: 12, y: -61}
+        - {x: 18, y: -59}
+        - {x: 32, y: -51}
+        - {x: 32, y: 54}
+    - name: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: -30}
+        - {x: 30, y: 27}
+        - {x: 29, y: 38}
+        - {x: 8, y: 58}
+        - {x: -10, y: 58}
+        - {x: -20, y: 48}
+        - {x: -30, y: 32}
+        - {x: -30, y: -64}
+        - {x: 23, y: -64}
+        - {x: 30, y: -54}
+        - {x: 30, y: -50}
+        - {x: 27, y: -43}
+    - name: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 54}
+        - {x: -32, y: -61}
+        - {x: 24, y: -61}
+        - {x: 24, y: 54}
+    - name: hero_walk_cycle_spritesheet_by_mrnoobtastic-d3defej_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: -30}
+        - {x: 30, y: 27}
+        - {x: 29, y: 38}
+        - {x: 8, y: 58}
+        - {x: -10, y: 58}
+        - {x: -20, y: 48}
+        - {x: -30, y: 32}
+        - {x: -30, y: -64}
+        - {x: 23, y: -64}
+        - {x: 30, y: -54}
+        - {x: 30, y: -50}
+        - {x: 27, y: -43}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

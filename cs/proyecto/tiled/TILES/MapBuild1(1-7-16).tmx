@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="32" tileheight="32" nextobjectid="27">
+ <tileset firstgid="1" name="Grass_1 (2)" tilewidth="32" tileheight="32" tilecount="9" columns="3">
+  <image source="Grass_1.png" trans="ff00ff" width="96" height="96"/>
+ </tileset>
+ <tileset firstgid="10" name="Grass_2" tilewidth="32" tileheight="32" tilecount="4" columns="2">
+  <image source="Grass_2.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="14" name="Sand_3" tilewidth="32" tileheight="32" tilecount="9" columns="3">
+  <image source="Sand_3.png" trans="ff00ff" width="96" height="96"/>
+ </tileset>
+ <tileset firstgid="23" name="Sand_IN" tilewidth="32" tileheight="32" tilecount="4" columns="2">
+  <image source="Sand_IN.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="27" name="water (1)" tilewidth="32" tileheight="32" tilecount="18" columns="3">
+  <image source="water (1).png" trans="ff00ff" width="96" height="192"/>
+ </tileset>
+ <tileset firstgid="45" name="Wood" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="Wood.png" trans="ff00ff" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="46" name="Bush" tilewidth="32" tileheight="32" tilecount="4" columns="2">
+  <image source="Bush.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="50" name="Barrel" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="Barrel.png" trans="ff00ff" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="51" name="Sign" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="Sign.png" trans="ff00ff" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="52" name="Grass_Flower" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="Grass_Flower.png" trans="ff00ff" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="53" name="Grass_Shroom" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="Grass_Shroom.png" trans="ff00ff" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="54" name="FAROL (1)" tilewidth="32" tileheight="32" tilecount="3" columns="1">
+  <image source="FAROL (1).png" trans="ff00ff" width="32" height="96"/>
+ </tileset>
+ <tileset firstgid="57" name="arbol" tilewidth="32" tileheight="32" tilecount="64" columns="8">
+  <image source="arbol.png" trans="ff00ff" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="121" name="casa 2" tilewidth="32" tileheight="32" tilecount="63" columns="7">
+  <image source="casa 2.png" trans="ff00ff" width="226" height="307"/>
+ </tileset>
+ <tileset firstgid="184" name="Piedra1" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="Piedra1.png" trans="ff00ff" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="185" name="escudo tamaño cambiado" tilewidth="32" tileheight="32" tilecount="4" columns="2">
+  <image source="escudo tamaño cambiado.png" trans="ff00ff" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="189" name="escudo clan" tilewidth="32" tileheight="32" tilecount="12" columns="3">
+  <image source="escudo clan.png" trans="ff00ff" width="99" height="141"/>
+ </tileset>
+ <tileset firstgid="201" name="stone_wall_2" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="stone_wall_2.png" trans="ff00ff" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="202" name="Grass_1 (2)" tilewidth="32" tileheight="32" tilecount="9" columns="3">
+  <image source="Grass_1.png" width="96" height="96"/>
+ </tileset>
+ <tileset firstgid="211" name="escudo clan" tilewidth="32" tileheight="32" tilecount="12" columns="3">
+  <image source="escudo clan.png" width="99" height="141"/>
+ </tileset>
+ <tileset firstgid="223" name="escudo clan1" tilewidth="32" tileheight="32" tilecount="12" columns="3">
+  <image source="escudo clan1.png" width="99" height="128"/>
+ </tileset>
+ <layer name="Gound" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt1zEOhSAQBFAaL+A9fqf3r73Vr0wIsVjYnZ2BUGz1RedlhHyPUsoRMGc1P8JEGLZD28EwbYfdkmGy5LsCPTP0Ye0F4Yo2vN3N7ujtI8qlZPB42vWo/d3eP9rT82yPA/3+9a6vc9wOw2VcqzLZ+4rtUDYhznTGOzl67ql2iMzf+/9B1aHYx91xrbJDvY/Wgtj32Q7U2cXoYzv4Ds9ZpORYpY8VHGjDdmgZ0I4sw3bo5Ec53vtmfANmOGbug2WIcDCzex3szKMOZr7H4ah/zz53WoPVoTjPwLAzr+oYMXw50N+fWQ6FWcUxYmHnjbKxs0XNHwPYyoQ=
+  </data>
+ </layer>
+ <layer name="Top-Ground" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztmftKQzEMhzuVqdOh4F8+qve7z7THM0ELsbQ96TU5pR/82CjbIR9py9YaU4cteX9T6ZkSjOhxC7n6y7VMOdlsA+Nr680l5NgzvsbeoMuR8fsg6LQWFyQ0xxDaH+09WuoLRfv62UHOGZ/T3B+ugw/rJe0Tc9iY3/nGmXOpPmckF8zvhAg52Pr3ZCy0T7u4844z/07Nf69UN98+hQ57zziSsh+4uH5LULeYk68XMQcKtze18PXL+vl6cZLwbNub3P7UAP1ye+GDOi2ltXNKL0qwzq3o5dEau5ZK93ItjNKX6aELXCejrJHJZDLhcAe5hzxAHiFPkGfIi2RRGbxC3iDvkA/IJ+QL8i1YUw6HSFqyqfw8KY/av0ekPHL/C4aQ8qhNT4+Wv217eZScK3Bo6UHPOVs6ILU9etZOKfWgdfeu3RJzCLloqJuC560cD/d8TrpuZEde8Zwypx8awPrx7Cv3LkgLsXvStVByJ6eJ3nchLRnNpfddRy9i9zuj8AOu504k
+  </data>
+ </layer>
+ <layer name="Clan" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztzuENQ2AYRlH7b6TsokWLTuHZ4ZO8Eeck9//tOgAAAAAAgPua0jt9ij9azWlJa/VIo2/6pa16pNGejvSvHnm4Pr2qJy4wpLF6AgDgIU6KYQ2h
+  </data>
+ </layer>
+ <layer name="Water" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt09EKwjAMQNEqvvoHgqBM9P9/0JVZmaOx3WzSFu+BvGouzZwDAAAAABuX2Vwr7/KLYTZn12/PEJnQ01NTrENqavkGUx05fS00be1YNtVuKdHRQkupDj834T8Oeuu/0UGHBjo+5zTOI/L7u3GOqgUTzQbP4i2csFepe7J6CyfslfsG99dIb2HV4G3dX9q9llLfQeBvaa+17Bc5d5O6n8Dye1jq5W5S1t5Nq9bcDQAAAP7HE2U1Loc=
+  </data>
+ </layer>
+ <layer name="Nature" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt2MkNACAIBEAq8ui/OSnCaJSZZP8kLB8iAOpqmX57iA1GZt4e4hM6UYt9wxlujR/oMQAAAPA6/w0Aqlg/EAR1
+  </data>
+ </layer>
+ <layer name="Objects" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt19dOAkEYhmGuCRP1nlROLInYe++ggr0rKna9HAsW9Cp8D4jhhGWdcZhN/N7kOdoM+yfLZHZjMT/FS8LUiSS60I0e9KLPzWgVq7dc348BDGIIwxjBqOXv/rYGgzXlz2sM45jAJKYwjZk/mS58jQZryv9zs5jDPBawiCWk7EeraWksYwWryCCLNZ9DVShoD61jA5vYwjZ2sGtwnyY0owUJg/XVCtpDe9jHAQ5xhGOcGNynFW1oR4fB+moF7aEcTnGGc+RxgUsHc7jsCte4wS3ucI+H0vWw51CUsz2bopLJ2RTFTM4mpXxX53sApf5Brt9Pa5Xr91OllFJKKZse8YRnz3PY9oICXn0PYtkb3vHhexDLivjEl+9BlFI/6RtbKaWUUmH6Bt5/Pfk=
+  </data>
+ </layer>
+ <layer name="Tree" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt10duAjAYBWGuRYfQS0LvHUK5/wmYAyCQVzbSjPQtLb3l70zmfVnkkEcBRZRQRuXD25Sq4gc11NFAEy20I+4KrYMueujjF38YYBhxV2gjjDHBFDPMscAy4q7QVlhjgy122OOAY7xZwZ1wxgX/uOKGOx4Rd5mZmb3K+zStvE/TyvvUzMzMzMxC8o+dVv6x08o/tpmZmdn39gRIyy1J
+  </data>
+ </layer>
+ <objectgroup name="Colision">
+  <object id="2" x="0" y="1208">
+   <polyline points="0,0 104,0 128,-24 144,-40 160,-64 208,-64 224,-96 368,-96 384,-128 408,-128 416,-160 456,-160 480,-192 552,-192 576,-224 576,-256 608,-280 632,-304 632,-480 608,-504 584,-528 552,-560 480,-560 456,-592 288,-592 264,-632 192,-632 168,-656 120,-664 104,-696 0,-696 0,0"/>
+  </object>
+  <object id="3" x="1096" y="256">
+   <polyline points="0,0 16,0 16,-8 0,-8 0,0"/>
+  </object>
+  <object id="4" x="808" y="128">
+   <polyline points="0,0 16,0 16,-8 0,-8 0,0"/>
+  </object>
+  <object id="5" x="1544" y="384">
+   <polyline points="0,0 16,0 16,-8 0,-8 0,0"/>
+  </object>
+  <object id="9" x="1576" y="288">
+   <polyline points="0,0 16,0 24,-8 24,-16 -8,-16 -8,-8 0,0"/>
+  </object>
+  <object id="11" x="1216" y="80">
+   <polyline points="0,0 0,40 8,48 24,48 32,40 32,16 56,16 64,8 64,-8 0,-8 0,0"/>
+  </object>
+  <object id="12" x="960" y="32">
+   <polyline points="0,0 64,0 64,-16 0,-16 0,0"/>
+  </object>
+  <object id="13" x="1312" y="288">
+   <polyline points="0,0 224,0 224,-176 0,-176 0,0"/>
+  </object>
+  <object id="15" x="896" y="384">
+   <polyline points="0,0 0,16 16,32 48,32 64,16 64,0 64,-8 0,-8 0,0"/>
+  </object>
+  <object id="16" x="672" y="216">
+   <polyline points="0,0 0,24 16,40 48,40 64,24 64,0 0,0"/>
+  </object>
+  <object id="17" x="336" y="240">
+   <polyline points="0,0 24,16 80,16 104,0 80,-24 72,-32 24,-32 0,0"/>
+  </object>
+  <object id="18" x="128" y="312">
+   <polyline points="0,0 0,24 16,40 40,40 48,40 64,24 64,0 0,0"/>
+  </object>
+  <object id="19" x="712" y="512">
+   <polyline points="0,0 24,0 24,-16 -8,-16 -8,0 0,0"/>
+  </object>
+  <object id="20" x="800" y="632">
+   <polyline points="0,0 0,24 16,40 48,40 64,24 64,0 0,0"/>
+  </object>
+  <object id="22" x="1296" y="656">
+   <polyline points="0,0 24,16 80,16 96,0 80,-24 72,-32 24,-32 16,-16 0,0"/>
+  </object>
+  <object id="23" x="1504" y="504">
+   <polyline points="0,0 0,24 16,40 48,40 64,24 64,0 0,0"/>
+  </object>
+  <object id="24" x="816" y="1296">
+   <polyline points="0,0 24,-24 32,-32 80,-32 80,-24 96,-8 96,8 80,16 24,16 0,0"/>
+  </object>
+  <object id="25" x="160" y="1336">
+   <polyline points="0,0 0,24 16,40 48,40 64,24 64,0 0,0"/>
+  </object>
+  <object id="26" x="1312" y="1248">
+   <polyline points="0,0 0,96 288,96 288,0 256,-296 144,-368 16,-296 0,0"/>
+  </object>
+ </objectgroup>
+ <layer name="Capa de patrones 7" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20ON6AAAAAAAAAAAADg3wAnEAAB
+  </data>
+ </layer>
+</map>

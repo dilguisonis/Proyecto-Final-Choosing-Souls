@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="Grass" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="WORK STATION V2  - 1.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="2" name="WORK STATION V2  - 1 (ROJO)" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="WORK STATION V2  - 1 (ROJO).png" width="32" height="32"/>
+  <tile id="0">
+   <objectgroup draworder="index">
+    <object id="0" x="-0.181818" y="-0.363636" width="32.0909" height="32.2727"/>
+   </objectgroup>
+  </tile>
+ </tileset>
+ <tileset firstgid="3" name="Trees" tilewidth="32" tileheight="32" tilecount="256" columns="16">
+  <image source="Trees.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="259" name="CASA" tilewidth="32" tileheight="32" tilecount="40" columns="10">
+  <image source="CASA.png" width="330" height="142"/>
+ </tileset>
+ <layer name="Ground" width="10" height="10">
+  <data encoding="csv">
+1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1
+</data>
+ </layer>
+ <layer name="Trees" width="10" height="10">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,186,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,186,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer name="TreesTop" width="10" height="10">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,
+0,0,137,138,139,0,0,0,0,0,
+0,0,153,154,155,0,0,0,0,0,
+0,0,169,170,171,0,0,0,0,0,
+0,0,185,0,187,0,137,138,139,0,
+0,0,0,0,0,0,153,154,155,0,
+0,0,0,0,0,0,169,170,171,0,
+0,0,0,0,0,0,185,0,187,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer name="Colision Roja" width="10" height="10" opacity="0.32">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,2,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,2,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+</map>

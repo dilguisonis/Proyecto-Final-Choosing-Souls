@@ -1,0 +1,6 @@
+Kyle;Soy Rocco Pirroro;0;R
+Orien;Gato gostosura;0;L
+Kyle;Oh that's cool;1;R
+Player;Restart:line,0;Continue:line,4
+Kyle;This is a test;2;L
+Orien;Test test test test;2;R

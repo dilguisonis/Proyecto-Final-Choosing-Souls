@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 54595214b54136e45be68a39f49bb867
+timeCreated: 1470860588
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: izquierda caminar posta_0
+    21300002: izquierda caminar posta_1
+    21300004: izquierda caminar posta_2
+    21300006: izquierda caminar posta_3
+    21300008: izquierda caminar posta_4
+    21300010: izquierda caminar posta_5
+    21300012: izquierda caminar posta_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: izquierda caminar posta_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 25
+        width: 32
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 39}
+        - {x: -16, y: -39}
+        - {x: 15, y: -39}
+        - {x: 16, y: -35}
+        - {x: 16, y: 39}
+    - name: izquierda caminar posta_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 25
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 38.5}
+        - {x: -20, y: 36.5}
+        - {x: -20, y: -38.5}
+        - {x: 20, y: -38.5}
+        - {x: 20, y: 30.5}
+        - {x: 15, y: 38.5}
+    - name: izquierda caminar posta_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 25
+        width: 33
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 38.5}
+        - {x: -16.5, y: -38.5}
+        - {x: 13.5, y: -38.5}
+        - {x: 16.5, y: -35.5}
+        - {x: 16.5, y: 38.5}
+    - name: izquierda caminar posta_3
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 25
+        width: 32
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 39}
+        - {x: -16, y: -39}
+        - {x: 12, y: -39}
+        - {x: 16, y: -35}
+        - {x: 16, y: 37}
+        - {x: 15, y: 39}
+    - name: izquierda caminar posta_4
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 25
+        width: 37
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 39}
+        - {x: -18.5, y: -39}
+        - {x: 18.5, y: -39}
+        - {x: 18.5, y: 39}
+    - name: izquierda caminar posta_5
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 25
+        width: 34
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 39}
+        - {x: -17, y: 32}
+        - {x: -17, y: -39}
+        - {x: 17, y: -39}
+        - {x: 17, y: 39}
+    - name: izquierda caminar posta_6
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 25
+        width: 32
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 39}
+        - {x: -16, y: -39}
+        - {x: 16, y: -39}
+        - {x: 16, y: 39}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

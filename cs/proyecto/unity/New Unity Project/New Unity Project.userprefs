@@ -1,0 +1,32 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\UIManager.cs">
+    <Files>
+      <File FileName="Assets\DestroyElement.cs" Line="18" Column="28" />
+      <File FileName="Assets\SpawnPositionManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FloatingNumbers.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MapGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Warp.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DialogueHolder.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PotionManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerStartPoint.cs" Line="18" Column="44" />
+      <File FileName="Assets\ShopManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\ShopHolder.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UIManager.cs" Line="16" Column="35" />
+      <File FileName="Assets\Scripts\PauseManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerStats.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FollowPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\DRM.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Danilo\Desktop\proyectos\v10\cs\proyecto\unity\New Unity Project\Assets\Scripts\HurtPlayer.cs" line="76" column="1" />
+      <Breakpoint file="C:\Users\Danilo\Desktop\proyectos\v12\cs\proyecto\unity\New Unity Project\Assets\Scripts\PlayerStats.cs" line="243" column="1" />
+      <Breakpoint file="C:\Users\Danilo\Desktop\proyectos\v12\cs\proyecto\unity\New Unity Project\Assets\Scripts\PlayerStats.cs" line="120" column="5" />
+      <Breakpoint file="C:\Users\Danilo\Desktop\proyectos\v12\cs\proyecto\unity\New Unity Project\Assets\SpawnPositionManager.cs" line="79" column="14" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
